@@ -17,5 +17,8 @@ public class demo {
 	public void setName(String name) {
 		this.name = name;
 	}
-
+	@Override
+	public String toString() {
+		return "demo [id=" + id + ", name=" + name + "]";
+	}
 }
