@@ -3,7 +3,6 @@ package git;
 public class demo {
 
 	//code change in master 1
-	//change 1 - master
 	//change 2 - feature
 	private int id;
 	private String name;
