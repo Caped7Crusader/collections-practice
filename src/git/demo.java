@@ -2,8 +2,6 @@ package git;
 
 public class demo {
 
-
-	//change 1 - feature
 	private int id;
 	private String name;
 	
