@@ -3,7 +3,11 @@ package git;
 public class demo {
 
 	//code change in master 1
+<<<<<<< Upstream, based on master
 	//change 1 - master
+=======
+	//change 2 - feature
+>>>>>>> 5977c78 change 2 - feature
 	private int id;
 	private String name;
 	
